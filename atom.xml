@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-02-26T14:33:21.098Z</updated>
+    <updated>2021-02-26T15:08:18.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -44,7 +44,8 @@
 <p>B站：Prism菌<br>
 QQ：1184445870</p>
 <h2 id="邻居传送门">🍻 邻居传送门</h2>
-<p>QSD：http://qsdqsb.icu</p>
+<p>QSD：http://qsdqsb.icu<br>
+WJL：https://wangjl319.github.io/</p>
 ]]></summary>
         <content type="html"><![CDATA[<blockquote>
 <p>欢迎来到Prism的小站~嘿嘿</p>
@@ -59,7 +60,8 @@ QQ：1184445870</p>
 <p>B站：Prism菌<br>
 QQ：1184445870</p>
 <h2 id="邻居传送门">🍻 邻居传送门</h2>
-<p>QSD：http://qsdqsb.icu</p>
+<p>QSD：http://qsdqsb.icu<br>
+WJL：https://wangjl319.github.io/</p>
 <!-- more -->
 ]]></content>
     </entry>
