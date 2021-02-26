@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>关于 | Prism</title>
+<title>Prism | Prism</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -12,32 +12,13 @@
 <link rel="stylesheet" href="https://ace-prism.github.io/styles/main.css">
 
 
-  
-    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
-  
-
-  
-
 
 <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 
-    <meta name="description" content="
-欢迎来到Prism的小站~嘿嘿
-
-🏠 关于本站
-不定期更新杂谈/随笔/知识分享/flag等等
-👨‍💻 博主是谁
-是个人
-⛹ 兴趣爱好
-RA3，台球，摄影，音乐
-📬 联系我呀
-B站：Prism菌
-
-..." />
-    <meta name="keywords" content="" />
+    <meta name="description" content="棱折万斓">
   </head>
   <body>
     <div id="app" class="main">
@@ -107,40 +88,33 @@ B站：Prism菌
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <div class="post-detail">
-            <h2 class="post-title">关于</h2>
-            <div class="post-date">2021-02-25</div>
-            
-              <div class="feature-container" style="background-image: url('https://ace-prism.github.io/post-images/about me.png')">
+          <h2 class="current-tag">标签: Prism</h2>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://ace-prism.github.io/post/Flag001/">
+                  <h2 class="post-title">2021.02.26</h2>
+                </a>
+                <div class="post-date">
+                  2021-02-26
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
               </div>
-            
-            <div class="post-content" v-pre>
-              <blockquote>
-<p>欢迎来到Prism的小站~嘿嘿</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>不定期更新杂谈/随笔/知识分享/flag等等</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>是个人</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>RA3，台球，摄影，音乐</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>B站：Prism菌</p>
-<!-- more -->
-
-            </div>
-            
-            
-
-            
               
-                <div id="gitalk-container" data-aos="fade-in"></div>
+                <a class="right" href="https://ace-prism.github.io/post/Flag001/">
+                  <div class="feature-container" style="background-image: url('https://i.loli.net/2021/02/26/SlV1GDkehd8jq4u.jpg')">
+                  </div>
+                </a>
               
+            </article>
+          
 
-              
-            
-
-          </div>
+          <div class="pagination-container">
+  
+  
+</div>
 
         </div>
       </div>
@@ -166,29 +140,6 @@ var app = new Vue({
     hljs.initHighlightingOnLoad()
   </script>
 
-
-
-
-  
-    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-    <script>
-
-      var gitalk = new Gitalk({
-        clientID: '056d63a7c1cc559f273e',
-        clientSecret: '441d9d44b67db974782efed9989bdfd6e827df14',
-        repo: 'ace-prism.github.io',
-        owner: 'ACE-Prism',
-        admin: ['ACE-Prism'],
-        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-        distractionFreeMode: false  // Facebook-like distraction free mode
-      })
-
-      gitalk.render('gitalk-container')
-
-    </script>
-  
-
-  
 
 
 

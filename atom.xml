@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-02-26T02:07:39.886Z</updated>
+    <updated>2021-02-26T09:18:44.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[2021.02.26]]></title>
+        <id>https://ace-prism.github.io/post/Flag001/</id>
+        <link href="https://ace-prism.github.io/post/Flag001/">
+        </link>
+        <updated>2021-02-26T03:43:51.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>看了几个别人的网站真的是超级帅啊太震撼了！0基础的我啥也干不了，一步步来吧~（等引进了评论系统就成了一半了！做好美化，能传音视频就差不多了！
+今年还剩十个月的样子，有一件很重要的事情就是先跟着狂神学Java，然后未师的ismism还会看（最好西哲史也能抽空看掉），还有谢利教授的死亡哲学，当然mathematics也不能落下是吧。我偶尔会有一些还可以的想法，但是行动力不足，所以今年是实干派的一年~
+有自己的网站是很开心的事情，这里很清静，而且可以完全由我的喜好来定（技术力足够以后），或许大家偶尔会来康康，也可能一直无人问津。这都无所谓，嵩哥以前也说，如果以后我的歌没有人听了，还是会继续写。也就是这个问题：一件事物究竟是有价值才被认可，还是被认可才有价值呢？因为要用电脑，感觉我都有点懒得更新（没有用wordpress），还有一个小小的奢望就是自己写个app在手机上就可以更新了（迫真
+我性子里也是一个渴望获得关注的人。还算年轻，有着这样那样的欲望也算普遍，但是我意识到这对我来说不是好事（当然，很多圈子正需要这个），我需要寻求一个合理化的方式卸力（四两拨千斤！）。并且我想着至少先开始去了解事物背后的运行机制，以前总觉得数学和哲学完全是两头的东西，我想找到一些中间点连接他们，但是现在学习了一些理论之后发觉，这两个的完全对立根本是没有必要的，哲学上面也经常讲拓扑学，量子力学，场域，统计学什么的，也不算是互补，可能是一个更复杂的嵌套结构，以后再看。我觉得很多人对哲学的误解或是不喜很可能在于他们难以接受自我批判，也就是掩耳盗铃了。
+社会节奏越来越快，等网站基本完善了，欢迎来我开辟的这一方小天地，悠哉地歇一会儿。</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://ace-prism.github.io/post/about me/</id>
@@ -40,47 +53,6 @@
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p>B站：Prism菌</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试Test1]]></title>
-        <id>https://ace-prism.github.io/post/ce-shi-test1/</id>
-        <link href="https://ace-prism.github.io/post/ce-shi-test1/">
-        </link>
-        <updated>2021-02-25T07:59:41.000Z</updated>
-        <content type="html"><![CDATA[<p>个人网站的测试，顺便学一下github，域名也注册好了等审核通过就好了~😀</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://ace-prism.github.io/post/hello-gridea/</id>
-        <link href="https://ace-prism.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
