@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-02-27T07:33:50.648Z</updated>
+    <updated>2021-02-27T07:34:19.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -34,46 +34,6 @@
   我性子里其实也是一个渴望获得关注的人。还算年轻，有着这样那样的欲望也算普遍，不过我意识到这对我个人来说不是好事（当然，很多圈子正需要这个），但是一味的压抑又适得其反，并且会伤害到我的精神，需要寻求一个合理化的方式卸力。<br>
   以前总觉得数学和哲学完全是两头的东西，我想找到一些中间点连接他们，但是现在学习了一些理论之后发觉，这两个的完全对立根本是没有必要的，哲学上面也经常讲拓扑学，量子力学，场域，统计学什么的，也不算是互补，可能是一个更复杂的嵌套结构。我觉得很多人对哲学的误解或是不喜很可能在于对于自我批判的接受程度较低，可以看看未明子老师的视频~<br>
   社会节奏越来越快啦，等网站基本完善了，欢迎光临这一方小天地，悠哉地歇会儿。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://ace-prism.github.io/post/about me/</id>
-        <link href="https://ace-prism.github.io/post/about me/">
-        </link>
-        <updated>2021-02-25T09:09:48.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>欢迎来到Prism的小站~嘿嘿</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>不定期更新杂谈/随笔/知识分享/flag等等</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>魔都211数学系在读</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>RA3，台球，摄影，音乐，正在重新喜欢上敲代码</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>B站：Prism菌<br>
-QQ：1184445870</p>
-<h2 id="左邻右舍">🍻 左邻右舍</h2>
-<p>QSD：https://qsdqsb.icu<br>
-WJL：https://wangjl319.github.io/</p>
-]]></summary>
-        <content type="html"><![CDATA[<blockquote>
-<p>欢迎来到Prism的小站~嘿嘿</p>
-</blockquote>
-<h2 id="关于本站">🏠 关于本站</h2>
-<p>不定期更新杂谈/随笔/知识分享/flag等等</p>
-<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>魔都211数学系在读</p>
-<h2 id="兴趣爱好">⛹ 兴趣爱好</h2>
-<p>RA3，台球，摄影，音乐，正在重新喜欢上敲代码</p>
-<h2 id="联系我呀">📬 联系我呀</h2>
-<p>B站：Prism菌<br>
-QQ：1184445870</p>
-<h2 id="左邻右舍">🍻 左邻右舍</h2>
-<p>QSD：https://qsdqsb.icu<br>
-WJL：https://wangjl319.github.io/</p>
-<!-- more -->
 ]]></content>
     </entry>
 </feed>
