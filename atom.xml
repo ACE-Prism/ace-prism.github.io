@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-02-27T07:34:50.973Z</updated>
+    <updated>2021-02-27T07:42:30.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -11,20 +11,21 @@
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
     <entry>
-        <title type="html"><![CDATA[#0001]]></title>
-        <id>https://ace-prism.github.io/post/0001/</id>
-        <link href="https://ace-prism.github.io/post/0001/">
+        <title type="html"><![CDATA[【杂言】001]]></title>
+        <id>https://ace-prism.github.io/post/zayan001/</id>
+        <link href="https://ace-prism.github.io/post/zayan001/">
         </link>
         <updated>2021-02-27T06:14:28.000Z</updated>
-        <content type="html"><![CDATA[<p>最后一天我在干什么呢！<br>
-我在赶论文😵！！<br>
-因为马上就要星期一了马上就要交报告了但是我还什么都没有写😭！！！</p>
+        <content type="html"><![CDATA[<p>  最后一天我在干什么呢！<br>
+  我在赶论文😵！！<br>
+  因为马上就要星期一了马上就要交报告了但是我还什么都没有写😭！！！<br>
+  希望我可以克服这个不是很懂又不敢问的弱点！！！！</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021.02.26]]></title>
-        <id>https://ace-prism.github.io/post/Flag001/</id>
-        <link href="https://ace-prism.github.io/post/Flag001/">
+        <title type="html"><![CDATA[【随笔】210226]]></title>
+        <id>https://ace-prism.github.io/post/suibi210226/</id>
+        <link href="https://ace-prism.github.io/post/suibi210226/">
         </link>
         <updated>2021-02-26T03:43:51.000Z</updated>
         <content type="html"><![CDATA[<p>  随便写点东西当测试。看了几个别人的网站真的是超级帅，太震撼了！0基础的我啥也不会，一步步来吧（等引进评论系统就成了一半了！做好美化能传音视频就差不多了！以后想做好几个模块的说<br>
