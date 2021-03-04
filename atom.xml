@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-03-03T14:41:30.606Z</updated>
+    <updated>2021-03-04T14:31:52.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[【随笔】210304]]></title>
+        <id>https://ace-prism.github.io/post/sui-bi-210304/</id>
+        <link href="https://ace-prism.github.io/post/sui-bi-210304/">
+        </link>
+        <updated>2021-03-04T14:28:06.000Z</updated>
+        <content type="html"><![CDATA[<p>早八和毛概老师聊了一会儿，我觉得她的态度很好，但是还是逃不出前反思。不过我又真的理解前反思吗?我的水平明显也差得远。唉，但是真的碰了哲学，注定是划分不到正常人里了。<br>
+晚上上多元统计分析，确实有点难，很多东西都没学过。准备再试一周看看要不退了……<br>
+打字的时候正好在放猎户星座<br>
+情长 飘黄<br>
+静悄悄的时光<br>
+清晨 日暮<br>
+何处是我的归宿</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【杂言】002]]></title>
         <id>https://ace-prism.github.io/post/za-yan-002/</id>

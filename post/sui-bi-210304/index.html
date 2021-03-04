@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>Multi-Agent System | Prism</title>
+<title>【随笔】210304 | Prism</title>
 <meta name="description" content="长夜梦旅有时尽">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +15,12 @@
 <link rel="stylesheet" href="https://ace-prism.github.io/styles/main.css">
 
 
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
 
@@ -23,6 +29,7 @@
 
   </head>
   <body>
+  
     <nav class="navbar border fixed split-nav">
   <div class="nav-brand">
     <h3><a href="https://ace-prism.github.io">Prism</a></h3>
@@ -79,40 +86,54 @@
     <div id="top" class="row site">
       <div class="sm-12 md-8 col">
         <div class="paper">
-          <h2 class="current-tag">标签: Multi-Agent System</h2>
-          
-  <article class="article">
-    <h2 class="article-title">
-      <a href="https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210227/">【多智能体系统】210227</a>
-    </h2>
-    <p class="article-meta">
-      2021-02-27
-      
-        <a href="https://ace-prism.github.io/tag/1Y2JMXLC6/" class="badge secondary">
-          Multi-Agent System
-        </a>
-      
-    </p>
-    <p class="text-lead">
-      
-    </p>
-    <div class="row">
-      <a href="https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210227/" class="readmore-link">
-        <button>
-          Read More
-        </button>
-      </a>
-    </div>
-  </article>
+          <article class="article">
+            <h1>【随笔】210304</h1>
+            <p class="article-meta">
+              2021-03-04
+              
+                <a href="https://ace-prism.github.io/tag/suibi/" class="badge warning">
+                  随笔
+                </a>
+              
+            </p>
+            
+            <div class="post-content">
+              <p>早八和毛概老师聊了一会儿，我觉得她的态度很好，但是还是逃不出前反思。不过我又真的理解前反思吗?我的水平明显也差得远。唉，但是真的碰了哲学，注定是划分不到正常人里了。<br>
+晚上上多元统计分析，确实有点难，很多东西都没学过。准备再试一周看看要不退了……<br>
+打字的时候正好在放猎户星座<br>
+情长 飘黄<br>
+静悄悄的时光<br>
+清晨 日暮<br>
+何处是我的归宿</p>
 
-
+            </div>
+          </article>
         </div>
-        <div class="row flex-edges">
-  
-  
-</div>
+        <div class="paper" data-aos="fade-in">
+          
+            <div class="next-post">
+              <div class="next">
+                下一篇
+              </div>
+              <a href="https://ace-prism.github.io/post/za-yan-002/">
+                <h3 class="post-title">
+                  【杂言】002
+                </h3>
+              </a>
+            </div>
+          
+        </div>
+        
+          
+            <div class="paper" data-aos="fade-in">
+              <div id="gitalk-container"></div>
+            </div>
+          
 
+          
+        
       </div>
+
       <div class="sm-12 md-4 col sidebar">
   <div class="paper info-container">
     <img src="https://ace-prism.github.io/images/avatar.png?v=1614868298806" class="no-responsive avatar">
@@ -213,15 +234,15 @@
           随笔
         </a>
       
-        <a href="https://ace-prism.github.io/tag/zayan/" class="badge secondary">
+        <a href="https://ace-prism.github.io/tag/zayan/" class="badge ">
           杂言
         </a>
       
-        <a href="https://ace-prism.github.io/tag/tB_Q3dnqN/" class="badge ">
+        <a href="https://ace-prism.github.io/tag/tB_Q3dnqN/" class="badge success">
           Study
         </a>
       
-        <a href="https://ace-prism.github.io/tag/cZJola46z/" class="badge success">
+        <a href="https://ace-prism.github.io/tag/cZJola46z/" class="badge warning">
           Java
         </a>
       
@@ -229,7 +250,7 @@
           memory
         </a>
       
-        <a href="https://ace-prism.github.io/tag/1Y2JMXLC6/" class="badge success">
+        <a href="https://ace-prism.github.io/tag/1Y2JMXLC6/" class="badge warning">
           Multi-Agent System
         </a>
       
@@ -239,6 +260,7 @@
     Powered by Prism 2021 | <a class="rss" href="https://ace-prism.github.io/atom.xml" target="_blank">RSS</a>
   </div>
 </div>
+
 
     </div>
 
@@ -251,6 +273,29 @@ AOS.init();
 hljs.initHighlightingOnLoad()
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '056d63a7c1cc559f273e',
+        clientSecret: '441d9d44b67db974782efed9989bdfd6e827df14',
+        repo: 'ace-prism.github.io',
+        owner: 'ACE-Prism',
+        admin: ['ACE-Prism'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
