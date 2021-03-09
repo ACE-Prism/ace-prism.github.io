@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-03-07T15:10:10.086Z</updated>
+    <updated>2021-03-09T14:29:20.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[【随笔】210309]]></title>
+        <id>https://ace-prism.github.io/post/sui-bi-210309/</id>
+        <link href="https://ace-prism.github.io/post/sui-bi-210309/">
+        </link>
+        <updated>2021-03-08T10:05:51.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天概率论老师从上午下课聊到了下午上课~了解了一些北师大的情况，交流了挺多的（虽然有点忘了），但是很开心！<br>
+今天上完课就在图书馆里了。五楼真的是风水宝地啊我大爱！！！每次去都有想借的书，恨不得直接把五楼搬回家（我已经连续三天忘记借书在出口的地方报警了<br>
+不是很想后面两年天天在教室食堂图书馆三点一线啊，虽然学习是很有必要，但是日复一日的流程总觉得少些什么，但是前提是学的足够扎实~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【多智能体系统】210307]]></title>
         <id>https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210307/</id>
@@ -113,17 +124,6 @@
   看了未明子老师的视频，思想才得以前进，在此感谢。不过也要小心掉进思维陷阱，但是太跳脱是不是又和生活格格不入了呢？还会担心这种问题说明还是有些愚昧，哈哈。<br>
   车上和父母聊天，谈到等疫情过去了想出国去旅游。我们三个人都没有出去过呢。我也有些担心他们的身体健康，趁着还年轻的时候陪他们再跑跑吧。<br>
   想改一些习惯，但是绝对不能像以前一样妄自尊大玩多线程，做事情一件件认真做，找回以前专注和认真的感觉。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【多智能体系统】210227]]></title>
-        <id>https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210227/</id>
-        <link href="https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210227/">
-        </link>
-        <updated>2021-02-27T14:44:37.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<p><img src="https://i.loli.net/2021/02/27/zRr6TcDi48oQkOy.png" alt="QQ截图20210227224557.png" loading="lazy"><br>
-<img src="https://i.loli.net/2021/02/27/QKFfdXzZESmPlGw.png" alt="QQ截图20210227224718.png" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
