@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-03-09T14:55:13.635Z</updated>
+    <updated>2021-03-10T14:52:31.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -11,14 +11,26 @@
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
     <entry>
+        <title type="html"><![CDATA[【随笔】210310]]></title>
+        <id>https://ace-prism.github.io/post/sui-bi-210310/</id>
+        <link href="https://ace-prism.github.io/post/sui-bi-210310/">
+        </link>
+        <updated>2021-03-10T14:15:24.000Z</updated>
+        <content type="html"><![CDATA[<p>  今天下午站在实验六楼旁边的台子上，被波光粼粼的水面围绕，感受着天空中鸟的和鸣，身心一下子很放松。随性哼了点曲子，开着录音，以后可以当灵感用！<br>
+  晚上小花梨开会旁边坐着寒寒舍友zx同学，有说有笑的聊了一会儿，可能是长时间沉默引发的间歇式话痨吧233333<br>
+  找了很多ABM/MAS的文献，大概了解了这是做控制方向的，也可以用于人工智能深度学习，分布式系统架构之类的事情。我觉得用来研究社会体系也可以，但是我没法确定自己是不是真的会喜欢往这边做，稍微试试吧。<br>
+  早上看小麻鸽鸽转发的某乎帖，给我整的都想谈恋爱了。突然间我感到如此快乐的辛酸。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【随笔】210309]]></title>
         <id>https://ace-prism.github.io/post/sui-bi-210309/</id>
         <link href="https://ace-prism.github.io/post/sui-bi-210309/">
         </link>
         <updated>2021-03-08T10:05:51.000Z</updated>
-        <content type="html"><![CDATA[<p>昨天概率论老师从上午下课聊到了下午上课~了解了一些北师大的情况，交流了挺多的（虽然有点忘了），但是很开心！<br>
-今天上完课就在图书馆里了。五楼真的是风水宝地啊我大爱！！！每次去都有想借的书，恨不得直接把五楼搬回家（我已经连续三天忘记借书在出口的地方报警了<br>
-不是很想后面两年天天在教室食堂图书馆三点一线啊，虽然学习是很有必要，但是日复一日的流程总觉得少些什么，但是前提是学的足够扎实~</p>
+        <content type="html"><![CDATA[<p>  昨天概率论老师从上午下课聊到了下午上课~了解了一些北师大的情况，交流了挺多的（虽然有点忘了），但是很开心！<br>
+  今天上完课就在图书馆里了。五楼真的是风水宝地啊我大爱！！！每次去都有想借的书，恨不得直接把五楼搬回家（我已经连续三天忘记借书在出口的地方报警了<br>
+  不是很想后面两年天天在教室食堂图书馆三点一线啊，虽然学习是很有必要，但是日复一日的流程总觉得少些什么，但是前提是学的足够扎实~</p>
 ]]></content>
     </entry>
     <entry>
@@ -111,19 +123,6 @@
   这个选课是真的恶心！一节都听不了只能全部免听，真就转专业没人权呗233333我看看要不把多元统计分析退了，课有点多哈！<br>
   晚上和fz同学聊了一会儿，从下课好晚聊到方向聊到插班生（这下难兄难弟了），原来也是考大数据失败，太痛苦了。不过他的学业成绩比我是好多了哈哈哈，这学期加油~<br>
   今日状态尚可，继续保持~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随笔】210228]]></title>
-        <id>https://ace-prism.github.io/post/sui-bi-210228/</id>
-        <link href="https://ace-prism.github.io/post/sui-bi-210228/">
-        </link>
-        <updated>2021-02-28T08:09:40.000Z</updated>
-        <content type="html"><![CDATA[<p>  回学校了！寝室里也基本整理干净了，看着这个熟悉又陌生的地方，心里有点愧疚。<br>
-  至少在19和20年，我还是没有接受现实的能力的——内心深处习惯性的否认环境，来巩固自己所谓的“认知”。现在的“我”就要来打倒以前的“你”。你没有什么目标，所有的空想也不愿付诸实践，尤其是学习的时候不肯正视自己的不足之处，试图通过掩盖来蒙混过关。你想在世人面前展示你“完美”的形态，可是想必你也发现了，上大学以来，你一直在走下坡路，面临的几次重大抉择也是选完就开始后悔，一片混乱。你对待事情不上心，沉浸在自己的空想世界里，封闭了内心，也丧失了生活的热情。其实你是知道原因的，只是那种事情你也不肯对外说，自己又深陷其中无能为力，可笑也可悲。<br>
-  看了未明子老师的视频，思想才得以前进，在此感谢。不过也要小心掉进思维陷阱，但是太跳脱是不是又和生活格格不入了呢？还会担心这种问题说明还是有些愚昧，哈哈。<br>
-  车上和父母聊天，谈到等疫情过去了想出国去旅游。我们三个人都没有出去过呢。我也有些担心他们的身体健康，趁着还年轻的时候陪他们再跑跑吧。<br>
-  想改一些习惯，但是绝对不能像以前一样妄自尊大玩多线程，做事情一件件认真做，找回以前专注和认真的感觉。</p>
 ]]></content>
     </entry>
 </feed>
