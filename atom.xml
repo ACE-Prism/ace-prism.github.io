@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-03-16T14:45:33.022Z</updated>
+    <updated>2021-03-17T04:35:05.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[【随笔】210316]]></title>
+        <id>https://ace-prism.github.io/post/sui-bi-210316/</id>
+        <link href="https://ace-prism.github.io/post/sui-bi-210316/">
+        </link>
+        <updated>2021-03-16T14:53:56.000Z</updated>
+        <content type="html"><![CDATA[<p>虽然说这个同步不了……我在本地还是先写一下吧，以后能传了也不落下。<br>
+今天看了很多复平面上的变换，太漂亮了，实在是非常吸引人，以至于我作业都没写~<br>
+我想做点这块的视频！冲！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【纪念日】0314]]></title>
         <id>https://ace-prism.github.io/post/ji-nian-ri-0314/</id>
@@ -114,17 +125,6 @@ PS：补一句，每天有一个非常美好的时刻，就是和水果店叔叔
         </link>
         <updated>2021-03-03T14:10:53.000Z</updated>
         <content type="html"><![CDATA[<p>想了很多，但是没时间写了，睡觉要紧。今天想看毛选就是了，确实空有了一腔热血。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【学习日记】Java#001]]></title>
-        <id>https://ace-prism.github.io/post/xue-xi-ri-ji-java001/</id>
-        <link href="https://ace-prism.github.io/post/xue-xi-ri-ji-java001/">
-        </link>
-        <updated>2021-03-02T14:12:30.000Z</updated>
-        <content type="html"><![CDATA[<p>美好的一天从JAVA疯狂报错结束<br>
-这和书上写的不一样啊喂！<br>
-<img src="https://i.loli.net/2021/03/02/XEUTSvfdj3Nqi8u.png" alt="image.png" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
