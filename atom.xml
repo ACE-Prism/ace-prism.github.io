@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-04-19T10:58:37.125Z</updated>
+    <updated>2021-04-19T14:41:32.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[【随笔】210419]]></title>
+        <id>https://ace-prism.github.io/post/sui-bi-210419/</id>
+        <link href="https://ace-prism.github.io/post/sui-bi-210419/">
+        </link>
+        <updated>2021-04-19T14:27:32.000Z</updated>
+        <content type="html"><![CDATA[<p>今天打开Gridea，发现连接恢复了，又可以时常来更新一下了！<br>
+无记录的这一个月里发生了很多事情，暂时也不多赘述了。Mark一下现在的计划~</p>
+<p>课业外：<br>
+支教项目 教案 视频 PPT<br>
+大创 多智能体系统 PDE 博弈论<br>
+音频组 歌曲<br>
+高数小讲师 备课<br>
+数学建模比赛<br>
+三创赛 溯享 资料查找 PPT</p>
+<p>课业内：<br>
+实变 上课+书本+习题+欧式空间上的勒贝格积分<br>
+复变 书本+习题+复分析可视化方法<br>
+概率论 书本+STAT110+习题+Introduction to Pribability<br>
+运筹学  习题+重点(+网课)<br>
+大物上  （待定）习题+重点<br>
+高代下  习题+重点<br>
+毛概下/操作系统  报一报佛脚</p>
+<p>其余待阅读书目：<br>
+微分方程，动力系统与混沌导论<br>
+分形几何：数学基础及其应用<br>
+从微分观点看拓扑<br>
+物理学与偏微分方程<br>
+……</p>
+<p>想尽可能多学习一点，看看自己适合什么方向，PDE ，复分析，分形和混沌我从门外看都挺感兴趣的（别打脸555555<br>
+早睡不一定，争取早起！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随笔】210316]]></title>
         <id>https://ace-prism.github.io/post/sui-bi-210316/</id>
@@ -116,15 +149,6 @@ PS：补一句，每天有一个非常美好的时刻，就是和水果店叔叔
   静悄悄的时光<br>
   清晨 日暮<br>
   何处是我的归宿</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【杂言】002]]></title>
-        <id>https://ace-prism.github.io/post/za-yan-002/</id>
-        <link href="https://ace-prism.github.io/post/za-yan-002/">
-        </link>
-        <updated>2021-03-03T14:10:53.000Z</updated>
-        <content type="html"><![CDATA[<p>想了很多，但是没时间写了，睡觉要紧。今天想看毛选就是了，确实空有了一腔热血。</p>
 ]]></content>
     </entry>
 </feed>
