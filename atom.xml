@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-04-19T14:50:09.293Z</updated>
+    <updated>2021-06-20T15:04:33.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,46 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[[Prism]2021.06.20 Overthinkin]]></title>
+        <id>https://ace-prism.github.io/post/prism20210620-overthinkin/</id>
+        <link href="https://ace-prism.github.io/post/prism20210620-overthinkin/">
+        </link>
+        <updated>2021-06-20T03:58:08.000Z</updated>
+        <content type="html"><![CDATA[<p>「<br>
+像将要坠地的玻璃酒杯<br>
+默念着 反重力漂浮<br>
+我渴求能够回到从前<br>
+但却被这狂潮死死咬住<br>
+脱离现实的梦境化为气泡<br>
+失重的我需要怎样才能自保<br>
+在这时间的缝隙停止思考<br>
+我明白多少烦恼都是庸人自扰<br>
+」</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笑傲江湖]]></title>
+        <id>https://ace-prism.github.io/post/xiao-ao-jiang-hu/</id>
+        <link href="https://ace-prism.github.io/post/xiao-ao-jiang-hu/">
+        </link>
+        <updated>2021-05-03T08:16:05.000Z</updated>
+        <content type="html"><![CDATA[<p>今日醉心于金庸先生的《笑傲江湖》，吃饭睡觉也尽皆抛于脑后，网络上何人何事更是两耳不闻。书中精彩智斗暂且不提，角色刻画栩栩如生，教人根本停不下来，恨不得囫囵吞枣快快读完，哪还记得学习？看完后才觉后悔，如此奇文自当细品，过了个大概又怎能领悟奥妙？二十岁读小说不似十五六岁，当年看天龙八部，射雕三部曲起劲，也未从中悟出多少人生感悟，如今读到后记，真想拍手称快。<br>
+“人生在世，充分圆满的自由根本是不能的。解脱一切欲望而得以大彻大悟，不是常人所能及。那些热衷于权力的人，受到心中权力欲的驱策，身不由己，去做许许多多违背自己良心的事，其实都是很可怜的。”<br>
+除开权欲财欲爱欲，自己吵嚷着去学那艰深的数学学问，终究是为了什么呢？以清高和孤傲自居，我也并非此等处事之人。这番工作也是前路漫漫，倘若半途灰心丧气，岂有他处再让我寻？无非是想让别人看我得起，或是骗自己别人看我得起，假装面上有光。这不是颠倒了是非吗？若是我有能力，别人自然看我得起，何必绕个大弯子？当然也有大展宏图抱负之意，不过自己几斤几两，还不清楚吗？与其每天过的如此紧张，不如看开点，但也不能为反而反，不然又走上老路子了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无题]]></title>
+        <id>https://ace-prism.github.io/post/wu-ti/</id>
+        <link href="https://ace-prism.github.io/post/wu-ti/">
+        </link>
+        <updated>2021-04-21T07:00:05.000Z</updated>
+        <content type="html"><![CDATA[<p>为什么想选择数学作为我一生的方向？<br>
+说不上来，我就是很喜欢数学（当然不是所有领域的，有一些东西我没什么感觉），相对来说这里对于理想主义者相对友好一些。<br>
+但是现在越来越觉得自己没有做研究的天赋，有些迷茫。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【随笔】210419]]></title>
         <id>https://ace-prism.github.io/post/sui-bi-210419/</id>
@@ -114,41 +154,6 @@ PS：补一句，每天有一个非常美好的时刻，就是和水果店叔叔
         <updated>2021-03-07T14:58:53.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/03/07/ToU5BZcadxOuAtk.png" alt="image.png" loading="lazy"><br>
 <img src="https://i.loli.net/2021/03/07/iStclCvxFBfjHYg.png" alt="image.png" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随笔】210306]]></title>
-        <id>https://ace-prism.github.io/post/sui-bi-210306/</id>
-        <link href="https://ace-prism.github.io/post/sui-bi-210306/">
-        </link>
-        <updated>2021-03-06T15:17:48.000Z</updated>
-        <content type="html"><![CDATA[<p>  今天的作息太不规律了，写出来检讨自己。晚上看咒回漫画看到三点半，早上又醒的很早，直接裂开。<br>
-  不想写了哈哈哈哈哈哈在和jl聊天！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随笔】210305]]></title>
-        <id>https://ace-prism.github.io/post/sui-bi-210305/</id>
-        <link href="https://ace-prism.github.io/post/sui-bi-210305/">
-        </link>
-        <updated>2021-03-05T15:31:35.000Z</updated>
-        <content type="html"><![CDATA[<p>  今天听了ywb和冯老师中午的对话，确实很牛啊，也点燃了我学习的激情<br>
-  晚上开了三创赛的会，整挺好，周末加油~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【随笔】210304]]></title>
-        <id>https://ace-prism.github.io/post/sui-bi-210304/</id>
-        <link href="https://ace-prism.github.io/post/sui-bi-210304/">
-        </link>
-        <updated>2021-03-04T14:28:06.000Z</updated>
-        <content type="html"><![CDATA[<p>  早八和毛概老师聊了一会儿，我觉得她的态度很好，但是还是逃不出前反思。不过我又真的理解前反思吗?我的水平明显也差得远。唉，但是真的碰了哲学，注定是划分不到正常人里了。<br>
-晚上上多元统计分析，确实有点难，很多东西都没学过。准备再试一周看看要不退了……<br>
-  打字的时候正好在放猎户星座<br>
-  情长 飘黄<br>
-  静悄悄的时光<br>
-  清晨 日暮<br>
-  何处是我的归宿</p>
 ]]></content>
     </entry>
 </feed>
