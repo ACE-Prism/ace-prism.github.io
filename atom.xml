@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ace-prism.github.io</id>
     <title>Prism</title>
-    <updated>2021-06-28T08:32:16.564Z</updated>
+    <updated>2021-07-19T12:59:49.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ace-prism.github.io"/>
     <link rel="self" href="https://ace-prism.github.io/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://ace-prism.github.io/images/avatar.png</logo>
     <icon>https://ace-prism.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Prism</rights>
+    <entry>
+        <title type="html"><![CDATA[[Java]000.Markdown与DOS命令]]></title>
+        <id>https://ace-prism.github.io/post/java000markdown-yu-dos-ming-ling/</id>
+        <link href="https://ace-prism.github.io/post/java000markdown-yu-dos-ming-ling/">
+        </link>
+        <updated>2021-07-19T08:52:31.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="000markdown与dos命令">000.Markdown与DOS命令</h2>
+<h3 id="1标题">1.标题</h3>
+<p>一个#一个标题，可以一直到六级标题</p>
+<h3 id="2字体">2.字体</h3>
+<p><strong>粗体Hello world！</strong><br>
+<em>斜体Hello world！</em><br>
+<em><strong>加粗斜体Hello world！</strong></em><br>
+<s>删除线Hello world！</s></p>
+<h3 id="3引用">3.引用</h3>
+<blockquote>
+<pre><code>  引用xct
+</code></pre>
+</blockquote>
+<h3 id="4分割线">4.分割线</h3>
+<hr>
+<h3 id="5图片">5.图片</h3>
+<p><img src="001/img-ref-0.png" alt="本地图片" loading="lazy"><br>
+<img src="https://i.loli.net/2021/07/19/l8Lcqe3yjusUSIA.jpg" alt="网络图片（点审查元素找地址）" loading="lazy"></p>
+<h3 id="6超链接">6.超链接</h3>
+<p><a href="https://space.bilibili.com/13188752">点击跳转我的B站空间</a></p>
+<h3 id="7列表">7.列表</h3>
+<ol>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ol>
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C</li>
+</ul>
+<h3 id="8表格">8.表格</h3>
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>性别</th>
+<th>专业</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>prism</td>
+<td>男</td>
+<td>数学</td>
+</tr>
+</tbody>
+</table>
+<h3 id="9代码">9.代码</h3>
+<pre><code class="language-java">prism
+20210719
+</code></pre>
+<h3 id="10dos常用命令">10.DOS常用命令</h3>
+<pre><code class="language-Dos">#盘符切换 D:
+#查看当前目录下的所有文件/空间 dir
+#切换目录 cd /d F:\Prism (change directory)
+#上一级和下一级 cd ..和cd Prism
+#清理屏幕 cls (clean screen)
+#退出终端 exit
+#查看ip ipconfig
+#打开计算器、画图和记事本 calc、mspaint、notepad
+#ping命令 ping www.baidu.com 得到ip地址和延迟、节点数据
+#创建文件夹 md test （make directory）
+#删除文件夹 rd test （remote directory）
+#创建文件 cd&gt;Prism.txt
+#删除文件 del Prism.txt
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Prism]2021.06.20 Overthinkin]]></title>
         <id>https://ace-prism.github.io/post/prism20210620-overthinkin/</id>
@@ -144,16 +219,6 @@ PS：补一句，每天有一个非常美好的时刻，就是和水果店叔叔
         <content type="html"><![CDATA[<p>  昨天概率论老师从上午下课聊到了下午上课~了解了一些北师大的情况，交流了挺多的（虽然有点忘了），但是很开心！<br>
   今天上完课就在图书馆里了。五楼真的是风水宝地啊我大爱！！！每次去都有想借的书，恨不得直接把五楼搬回家（我已经连续三天忘记借书在出口的地方报警了<br>
   不是很想后面两年天天在教室食堂图书馆三点一线啊，虽然学习是很有必要，但是日复一日的流程总觉得少些什么，但是前提是学的足够扎实~</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【多智能体系统】210307]]></title>
-        <id>https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210307/</id>
-        <link href="https://ace-prism.github.io/post/duo-zhi-neng-ti-xi-tong-210307/">
-        </link>
-        <updated>2021-03-07T14:58:53.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2021/03/07/ToU5BZcadxOuAtk.png" alt="image.png" loading="lazy"><br>
-<img src="https://i.loli.net/2021/03/07/iStclCvxFBfjHYg.png" alt="image.png" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
